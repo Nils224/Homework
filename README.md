@@ -11,7 +11,7 @@ The future of this project is to make it responsive and develop it further as I 
 
 ## Usage 
 
-![ScreenShot](assets/images/screenshot.png)
+![ScreenShot](assets/images/Screenshot.png)
 
 
 
